@@ -1,0 +1,95 @@
+{
+  "movies": [
+    {
+      "name": "The Matrix Reloaded",
+      "rating": "6.9",
+      "imageURL": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/jBegA6V243J6HUnpcOILsRvBnGb.jpg",
+      "overview": "Six months after the events depicted in The Matrix, Neo has proved to be a good omen for the free humans, as more and more humans are being freed from the matrix and brought to Zion, the one and only stronghold of the Resistance. Neo himself has discovered his superpowers including super speed, ability to see the codes of the things inside the matrix and a certain degree of pre-cognition.",
+      "id": 8
+    },
+    {
+      "name": "Saw 3D",
+      "rating": "7.5",
+      "overview": "SAW legacy, a group of Jigsaw survivors gathers to seek the support of self-help guru and fellow survivor Bobby Dagen, a man whose own dark secrets unleash a new wave of terror.",
+      "imageURL": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/qHCZ6LjtmqWDfXXN28TlIC9OppK.jpg",
+      "id": 11
+    },
+    {
+      "name": "Venom (2018)",
+      "rating": "6.8",
+      "imageURL": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/2uNW4WbgBXL25BAbXGLnLqX71Sw.jpg",
+      "overview": "Investigative journalist Eddie Brock attempts a comeback following a scandal, but accidentally becomes the host of Venom, a violent, super powerful alien symbiote. Soon, he must rely on his newfound powers to protect the world from a shadowy organization looking for a symbiote of their own.",
+      "id": 14
+    },
+    {
+      "name": "Snowpiercer",
+      "rating": "6.9",
+      "imageURL": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/nzccOvhrLGI0nvAknCEAk8bchD9.jpg",
+      "overview": "In a future where a failed global-warming experiment kills off most life on the planet, a class system evolves aboard the Snowpiercer, a train that travels around the globe via a perpetual-motion engine.",
+      "id": 15
+    },
+    {
+      "name": "Rick and Morty",
+      "rating": "8.8",
+      "imageURL": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/8kOWDBK6XlPUzckuHDo3wwVRFwt.jpg",
+      "overview": "Rick is a mentally-unbalanced but scientifically gifted old man who has recently reconnected with his family. He spends most of his time involving his young grandson Morty in dangerous, outlandish adventures throughout space and alternate universes. Compounded with Morty's already unstable family life, these events cause Morty much distress at home and school.",
+      "id": 16
+    },
+    {
+      "name": "Nobody",
+      "rating": "8.4",
+      "imageURL": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/oBgWY00bEFeZ9N25wWVyuQddbAo.jpg",
+      "overview": "Hutch Mansell, a suburban dad, overlooked husband, nothing neighbor — a \"nobody.\" When two thieves break into his home one night, Hutch's unknown long-simmering rage is ignited and propels him on a brutal path that will uncover dark secrets he fought to leave behind.",
+      "id": 17
+    },
+    {
+      "name": "Whiplash",
+      "rating": "8.4",
+      "imageURL": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/oPxnRhyAIzJKGUEdSiwTJQBa3NM.jpg",
+      "overview": "Under the direction of a ruthless instructor, a talented young drummer begins to pursue perfection at any cost, even his humanity.",
+      "id": 18
+    },
+    {
+      "name": "Friends",
+      "rating": "8.4",
+      "imageURL": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/f496cm9enuEsZkSPzCwnTESEK5s.jpg",
+      "overview": "The misadventures of a group of friends as they navigate the pitfalls of work, life and love in Manhattan.",
+      "id": 19
+    },
+    {
+      "name": "The Scientist",
+      "rating": "6.6",
+      "imageURL": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/hIkKM1nlzk8DThFT4vxgW1KoofL.jpg",
+      "overview": "An unconventional scientist, struggling to care for his terminally-ill wife, embarks on a journey to develop a cure for her. However, his methods of treatment and tampering with human DNA, could lead to the extinction of humanity.",
+      "id": 20
+    },
+    {
+      "name": "Paperhouse",
+      "rating": "6.8",
+      "imageURL": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/aMXn3sce4uHn7RGh1eagGgO2wiT.jpg",
+      "overview": "A young girl lost in the loneliness and boredom of reality finds solace in an ill boy, whom she can visit in a surreal dream world that she drew in her school composition book.",
+      "id": 21
+    },
+    {
+      "name": "Money Heist",
+      "rating": "8.6",
+      "imageURL": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/reEMJA1uzscCbkpeRJeTT2bjqUp.jpg",
+      "overview": "To carry out the biggest heist in history, a mysterious man called The Professor recruits a band of eight robbers who have a single characteristic: none of them has anything to lose. Five months of seclusion - memorizing every step, every detail, every probability - culminate in eleven days locked up in the National Coinage and Stamp Factory of Spain, surrounded by police forces and with dozens of hostages in their power, to find out whether their suicide wager will lead to everything or nothing.",
+      "id": 22
+    },
+    {
+      "name": "John Wick 2",
+      "rating": "7.2",
+      "imageURL": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/hXWBc0ioZP3cN4zCu6SN3YHXZVO.jpg",
+      "overview": "John Wick is forced out of retirement by a former associate looking to seize control of a shadowy international assassins’ guild. Bound by a blood oath to aid him, Wick travels to Rome and does battle against some of the world’s most dangerous killers.",
+      "id": 23
+    },
+    {
+      "name": "Malignant",
+      "rating": "7.2",
+      "imageURL": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/dGv2BWjzwAz6LB8a8JeRIZL8hSz.jpg",
+      "overview": "Madison is paralyzed by shocking visions of grisly murders, and her torment worsens as she discovers that these waking dreams are in fact terrifying realities with a mysterious tie to her past.",
+      "id": 24
+    }
+  ]
+}
